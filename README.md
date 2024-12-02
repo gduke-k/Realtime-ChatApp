@@ -4,7 +4,7 @@ Introducing our real-time chat app , ChatMap empowers you to connect, share, and
 
 Note - Current Web Link may take some time to load.
 
-## ![image](https://github.com/user-attachments/assets/85f23f59-00d8-4d75-a5b9-1b3a71c6342c)
+# ![chatmap](https://github.com/user-attachments/assets/85f23f59-00d8-4d75-a5b9-1b3a71c6342c)
 
 ### Build the app
 
